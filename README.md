@@ -1,1 +1,1 @@
-# -Triplet-Extractor-from-Wikipedia-page
+# Triplet-Extractor-from-Wikipedia-page
